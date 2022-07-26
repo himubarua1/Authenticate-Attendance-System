@@ -1,5 +1,5 @@
-const router =require('express').Router();
-const {loginController, registerController } = require('./controller/auth');
+const router = require('express').Router();
+const {loginController, registerController } = require('../controller/auth');
 
 
 
